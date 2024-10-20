@@ -11,6 +11,7 @@ Soy un profesional empático, analítico, con capacidad de liderazgo, buena comu
 
 - [Linkedin](https://www.linkedin.com/in/cromeflo/)
 - [Github](https://github.com/linder3hs)
+- [Email](mailto:cromeflo@gmail.com)
 
 ## Mis notas de lectura:
 - [Mindset]
@@ -21,4 +22,4 @@ Soy un profesional empático, analítico, con capacidad de liderazgo, buena comu
 - Tener un espacio para uno mismo
 - Compartir conocimiento
 
-<strong>*[Enlace a README](./README.md)*</strong>
+<strong>*[Enlace a mindset](./mindset.md)*</strong>
